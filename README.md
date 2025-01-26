@@ -1,6 +1,7 @@
 # KUSIS Grade Change Notifier
 
-This project is a Python-based automation script that monitors course grades on KUSIS (Koç University's Student Information System) and sends email alerts if any changes are detected. The script also provides real-time audio notifications for detected changes.
+This project is a Python-based automation script that monitors course grades on KUSIS (Koç University's Student Information System) and sends email alerts if any changes are detected. The script also provides real-time audio notifications for detected changes. 
+**For Personal Use Only!**
 
 ## Features
 
