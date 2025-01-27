@@ -40,7 +40,7 @@ pip install selenium beautifulsoup4
    - Replace `USERNAME` and `PASSWORD` in the script with your KUSIS login credentials.
 
 3. **Configure Email Settings**:
-   - Replace `SENDER_EMAIL` and `PASSWORD` with your email address and application password (for Gmail, you may need to generate an app password).
+   - Replace `SENDER_EMAIL` and `SENDER_PASSWORD` with your email address and application password (for Gmail, you may need to generate an app password, learn it [here](https://knowledge.workspace.google.com/kb/how-to-create-app-passwords-000009237)).
    - Set the `RECIPIENT_EMAIL` to the email address where you want to receive notifications.
 
 4. **Run the Script**:
